@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا حبيبي في عيوني نار وأسرار
+> من همس الليالي بحبك وبغار
+> روحي معاك بتنسى كل الأعذار
+> وقلبي بينده لك في كل مشوار
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
