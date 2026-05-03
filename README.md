@@ -10,7 +10,7 @@
 |-------|---------|
 | Title | Bhebbak Wa Bghar – I Love You and I Get Jealous |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | April 25, 2026 |
+| Lyric Writing Date | April 24, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/bhebbak-wa-bghar-i-love-you-and-i-get-jealous/) |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
